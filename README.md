@@ -19,6 +19,8 @@
 
 ### 📫&nbsp; Onde me encontrar
 
+<img align="right" width="300" src="./.github/NaiDrawing.png" />
+
 [![Linkedin Badge](https://img.shields.io/badge/-NaiaraBarros-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naiara-b-barros/)](https://www.linkedin.com/in/naiara-b-barros/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naibarros&layout=compact&theme=radical" alt="My Github Stats">
