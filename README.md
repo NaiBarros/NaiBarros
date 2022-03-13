@@ -1,11 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=NaiBarros&color=006bed)
 
-# Naiara Barros :wave: &nbsp;
+<h1>
+  <span>Naiara Barros :wave:</span>
+</h1>
 
 <h3> 🦸‍♂️ &nbsp;Sobre mim </h3>
 
 <p>Olá! :wave:, me chamo Naiara, sou Desenvolvedora Frontend e bem vindo(a) ao meu Github :rocket: </p>
-<img align="right" width="300" src="https://media3.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=ecf05e47cuwcd9lfcpqixu2i8ye58oc1lnyhbqxih3vw876w&rid=giphy.gif&ct=g" />
+<img align="right" height="200" style="border-radius:50px;" src="https://media3.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=ecf05e47cuwcd9lfcpqixu2i8ye58oc1lnyhbqxih3vw876w&rid=giphy.gif&ct=g" />
 
 - ⏳ &nbsp; 21 anos.
 - 💻 &nbsp; Desenvolvedora Frontend.
@@ -19,8 +21,6 @@
 
 ### 📫&nbsp; Onde me encontrar
 
-<img align="right" width="300" src="./.github/NaiDrawing.png" />
-
-[![Linkedin Badge](https://img.shields.io/badge/-NaiaraBarros-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naiara-b-barros/)](https://www.linkedin.com/in/naiara-b-barros/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naiara-b-barros/)](https://www.linkedin.com/in/naiara-b-barros/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naibarros&layout=compact&theme=radical" alt="My Github Stats">
