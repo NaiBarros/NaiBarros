@@ -9,7 +9,7 @@
 <p>Olá! :wave:, me chamo Naiara, sou Desenvolvedora Frontend e bem vindo(a) ao meu Github :rocket: </p>
 <img align="right" height="200" style="border-radius:50px;" src="https://media3.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=ecf05e47cuwcd9lfcpqixu2i8ye58oc1lnyhbqxih3vw876w&rid=giphy.gif&ct=g" />
 
-- ⏳ &nbsp; 21 anos.
+- ⏳ &nbsp; 22 anos.
 - 💻 &nbsp; Desenvolvedora Frontend.
 - :thinking: &nbsp; "Quando atingimos nosso ponto mais baixo é quando estamos abertos a maior mudança".
 - :book: &nbsp; Atualmente estudando:
